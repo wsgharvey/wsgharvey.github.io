@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+<title>Flexible Diffusion Modeling of Long Videos</title>
+</head>
+<body>
+
+<h1> Flexible Diffusion Modeling of Long Videos </h1>
+
+<h2>
+Long videos sampled on GQN-Mazes and MineRL by iterated application of our Hierarchy-2 sampling scheme, and a CARLA Town 01 video sampled with an autoregressive sampling scheme.
+</h2>
+
+<video controls width="300" autoplay>
+    <source src="long-videos/long-mazes_0_hierarchy-2.mp4" type="video/mp4">
+<!--    <source src="long-videos/long-mazes_0_hierarchy-2.webm" type="video/webm"> -->
+</video>
+<video controls width="300" autoplay>
+    <source src="long-videos/long-minerl_100_hierarchy-2.mp4" type="video/mp4">
+ <!--   <source src="long-videos/long-minerl_100_hierarchy-2.webm" type="video/webm"> -->
+</video>
+<video controls width="300" autoplay>
+    <source src="long-videos/long-carla_80_hierarchy-2.mp4" type="video/mp4">
+</video>
+
+<h2> Arrays of 30-1000 second videos </h2>
+<h3>
+CARLA Town01. Blocks of sampled completions with (1) FDM with Autoreg, (2) FDM with Hierarchy-2, and (3) CWVAE.  Within each block each column shows completions for a different test video. The top row is the ground-truth and the second row contains sampled completions.
+</h3>
+<video controls width="300">
+    <source src="video_arrays/carla_no_traffic_autoreg_5_1.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/carla_no_traffic_hierarchy-2_5_1.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/carla_no_traffic_final-1-70000_5_1.mp4" type="video/mp4">
+</video>
+ <!--Each column shows completions for a different test video. The top row is the ground-truth and below is a sampled completions.
+<br> <a href="video_arrays/carla_no_traffic_autoreg_5_1.mp4">Sampled by FDM with Autoreg.</a>
+<br> <a href="video_arrays/carla_no_traffic_hierarchy-2_5_1.mp4">Sampled by FDM with Hierarchy-2.</a>
+<br> <a href="video_arrays/carla_no_traffic_final-1-70000_5_1.mp4">Sampled by FDM with CWVAE.</a>-->
+
+
+<h3>
+MineRL. Blocks of sampled completions with (1) FDM with Autoreg, (2) FDM with Hierarchy-2, and (3) CWVAE.  Within each block each column shows completions for a different test video. The top row is the ground-truth and all other rows are sampled completions.
+</h3>
+<video controls width="300">
+    <source src="video_arrays/minerl_autoreg_5_3.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/minerl_hierarchy-2_5_3.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/minerl_final-1-model_5_3.mp4" type="video/mp4">
+</video>
+<!--<br> <a href="video_arrays/minerl_autoreg_5_3.mp4">Sampled by FDM with Autoreg.</a>
+<br> <a href="video_arrays/minerl_hierarchy-2_5_3.mp4">Sampled by FDM with Hierarchy-2.</a>
+<br> <a href="video_arrays/minerl_final-1-model_5_3.mp4">Sampled by CWVAE.</a>-->
+
+<h3>
+GQN-Mazes. Blocks of sampled completions with (1) FDM with Autoreg, (2) FDM with Hierarchy-2, and (3) CWVAE.  Within each block each column shows completions for a different test video. The top row is the ground-truth and all other rows are sampled completions.
+</h3>
+<video controls width="300">
+    <source src="video_arrays/mazes_cwvae_autoreg_5_3.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/mazes_cwvae_hierarchy-2_5_3.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/mazes_cwvae_final-1-110000_5_3.mp4" type="video/mp4">
+</video>
+<!--<br> <a href="video_arrays/mazes_cwvae_autoreg_5_3.mp4">Sampled by FDM with Autoreg.</a>
+<br> <a href="video_arrays/mazes_cwvae_hierarchy-2_5_3.mp4">Sampled by FDM with Hierarchy-2.</a>
+<br> <a href="video_arrays/mazes_cwvae_final-1-110000_5_3.mp4">Sampled by CWVAE.</a>-->
+
+
+<h2>
+And unconditional samples (i.e. not conditioned on the first few frames)
+</h2>
+<video controls width="300">
+    <source src="video_arrays/mazes_cwvae_hierarchy-2_5_1_0.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/minerl_hierarchy-2_5_1_0.mp4" type="video/mp4">
+</video>
+<video controls width="300">
+    <source src="video_arrays/carla_no_traffic_hierarchy-2_5_1_0.mp4" type="video/mp4">
+</video>
+
+
+
+</body>
+</html>
+
+
