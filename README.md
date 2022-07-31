@@ -88,3 +88,48 @@ CWVAE
 https://user-images.githubusercontent.com/30051123/182041792-d1a30257-40f1-45d4-aa80-7e4dc2b5bf8c.mp4
 
 
+
+
+Now for MineRL
+
+Autoreg
+
+
+https://user-images.githubusercontent.com/30051123/182045899-054c6a97-cf81-486f-b14d-f601123b4fc5.mp4
+
+Hierarchy-2
+
+
+https://user-images.githubusercontent.com/30051123/182045904-5ccab98c-48b3-466b-8f9a-2aaad5c419ad.mp4
+
+CWVAE
+
+
+
+
+
+https://user-images.githubusercontent.com/30051123/182045922-96a4ddff-71aa-45c5-9e79-2ddf919b09f9.mp4
+
+
+
+
+And then CARLA Town01
+
+Autoreg
+
+
+https://user-images.githubusercontent.com/30051123/182045945-fe4de096-b27b-4d20-acd0-5851b239a843.mp4
+
+
+
+Hierarchy-2
+
+https://user-images.githubusercontent.com/30051123/182045971-b7d09ea6-10e8-409a-b981-b27d68110b7e.mp4
+
+
+CWVAE
+
+https://user-images.githubusercontent.com/30051123/182045976-20b4e614-ce12-43b8-880c-ab5979136bc7.mp4
+
+
+
