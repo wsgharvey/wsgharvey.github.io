@@ -88,6 +88,11 @@ CWVAE
 https://user-images.githubusercontent.com/30051123/182041792-d1a30257-40f1-45d4-aa80-7e4dc2b5bf8c.mp4
 
 
+VDM
+
+https://user-images.githubusercontent.com/30051123/182048098-23aa541f-adfe-4dc7-977f-3b534eac705d.mp4
+
+
 
 
 Now for MineRL
@@ -154,6 +159,11 @@ https://user-images.githubusercontent.com/30051123/182045971-b7d09ea6-10e8-409a-
 CWVAE
 
 https://user-images.githubusercontent.com/30051123/182045976-20b4e614-ce12-43b8-880c-ab5979136bc7.mp4
+
+VDM
+
+
+https://user-images.githubusercontent.com/30051123/182048358-f713a649-c30b-49ec-819c-14df9c500730.mp4
 
 
 
