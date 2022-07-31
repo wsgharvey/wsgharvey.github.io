@@ -95,20 +95,44 @@ Now for MineRL
 Autoreg
 
 
+
 https://user-images.githubusercontent.com/30051123/182045899-054c6a97-cf81-486f-b14d-f601123b4fc5.mp4
+
+Remade:
+
+
+
+https://user-images.githubusercontent.com/30051123/182047677-7d683206-2171-4832-9fa8-bbd46b10a054.mp4
+
 
 Hierarchy-2
 
 
 https://user-images.githubusercontent.com/30051123/182045904-5ccab98c-48b3-466b-8f9a-2aaad5c419ad.mp4
 
+Remade:
+
+
+
+https://user-images.githubusercontent.com/30051123/182047696-fb631143-41e8-44c3-b23b-eecbd8b567e8.mp4
+
+
+
 CWVAE
 
 
-
-
-
 https://user-images.githubusercontent.com/30051123/182045922-96a4ddff-71aa-45c5-9e79-2ddf919b09f9.mp4
+
+Remade:
+
+https://user-images.githubusercontent.com/30051123/182047705-98c5b235-26e3-4760-99d6-199df622f41a.mp4
+
+
+Remade VDM:
+
+
+
+https://user-images.githubusercontent.com/30051123/182047731-3ca55745-a308-4c93-99e3-cac7646edb94.mp4
 
 
 
