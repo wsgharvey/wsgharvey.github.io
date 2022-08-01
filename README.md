@@ -174,4 +174,19 @@ https://user-images.githubusercontent.com/30051123/182052010-2284b90d-3fce-422c-
 
 
 
+CARLA completions on Town01
+
+
+
+https://user-images.githubusercontent.com/30051123/182253052-d6096b60-66a2-420d-baed-7aed52b2aec7.mp4
+
+
+
+
+and Town02
+
+
+https://user-images.githubusercontent.com/30051123/182253035-af931c15-5952-45bf-8113-3e1c01480587.mp4
+
+
 
