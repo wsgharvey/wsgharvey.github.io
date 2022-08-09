@@ -190,3 +190,12 @@ https://user-images.githubusercontent.com/30051123/182253035-af931c15-5952-45bf-
 
 
 
+
+Our TATS baseline on GQN-Mazes (not trained for long enough)
+
+![tats-mazes-sample](https://user-images.githubusercontent.com/30051123/183741362-efb87456-31a7-481f-968c-82daea092e6a.gif)
+
+
+
+
+
