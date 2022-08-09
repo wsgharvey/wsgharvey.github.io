@@ -196,6 +196,13 @@ Our TATS baseline on GQN-Mazes (not trained for long enough)
 ![tats-mazes-sample](https://user-images.githubusercontent.com/30051123/183741362-efb87456-31a7-481f-968c-82daea092e6a.gif)
 
 
+and in mp4 format
+
+
+https://user-images.githubusercontent.com/30051123/183742358-561498c7-6ef2-4e30-8560-a16376537f03.mp4
+
+
+
 
 
 
